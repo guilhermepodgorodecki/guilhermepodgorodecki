@@ -45,3 +45,7 @@
 <img src="https://raw.githubusercontent.com/guilhermepodgorodecki/guilhermepodgorodecki/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<style>
+  background-color: black;
+</style>
